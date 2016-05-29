@@ -1,0 +1,87 @@
+body {
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #D56BD4;
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+}
+h3 {
+  text-transform: uppercase;
+
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #11A7C4;
+  border-radius: 0;
+  border: 0;
+}
+#header-nav .container {
+  margin-left: 0px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  color: #CA27C8;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 10px;
+
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #2894A9;
+  font-size: 1.2em;
+  color: #E900C0
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/** MAIN CONTENT **/
+}
+
+
+.menu-text .border a span {
+  color: #1236D1;
+}
+.menu-text .border a:hover, .menu-text .border a:focus {
+  text-decoration: none;
+  font-size: 120%;
+}
+.menu-text .border {
+  padding: 10px;
+  margin: 5px;
+  background-color: #11A7C4;
+  border: 2px #1236D1 solid;
+}
+.border p {
+  text-align: justify;
+  padding: 5px;
+}
+/* END MAIN CONTENT */
+
